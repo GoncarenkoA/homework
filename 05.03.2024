@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Завдання 05.03.2024</title>
+</head>
+<body>
+<table border="2">
+<caption>Фрукти та овощі</caption>
+  <tr>
+  	  <th rowspan="2">№ за порядком</th>
+  	  <th>Назва</th>
+  	  <th colspan="2">Їжа</th>
+   </tr>
+   <tr>
 
+   	  <th>...</th>
+   	  <th>Фрукти</th>
+   	  <th>Овочі</th>
+   </tr>
+   <tr>
+   	   <th>1</th>
+       <th>Помідор</th>
+       <th>-</th>
+       <th>+</th>
+   </tr>
+   <tr>
+   	   <th>2</th>
+   	   <th>Яблуко</th>
+   	   <th>+</th>
+   	   <th>-</th>
+   </tr>
+   <tr>
+   	   <th>3</th>
+   	   <th><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tveda.ru%2Fencyclopedia%2Fovoschi-i-korneplody%2Fredis%2F&psig=AOvVaw3W41XDBU-72d4ZV9MUn8eA&ust=1710272597805000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj1rYf87IQDFQAAAAAdAAAAABB-"></th>
+   	   <th>-</th>
+   	   <th>+</th>
+   </tr>
+</table>
+</body>
+</html>
