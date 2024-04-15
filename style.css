@@ -6,11 +6,13 @@
          {
             height: 50px;
          }
-.lobster-regular {
-  font-family: "Lobster", sans-serif;
+// <uniquifier>: Use a unique and descriptive class name
+
+.caveat-<uniquifier> {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  height: 100%;
 }
 .text1 {
    font-family: Comic Sans MS;
