@@ -19,3 +19,14 @@
 .text2 {
    font-family: Time New Roman;
 }
+.menu {
+   text-align: center;
+}
+.menu li {
+   list-style-type: none;
+   display: inline-table;
+   width: 20%;
+}
+.table {
+   font-weight: 100%;
+}
